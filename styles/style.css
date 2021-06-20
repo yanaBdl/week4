@@ -1,0 +1,29 @@
+body {
+    background-color: #181818;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+#logo {
+    flex-grow: 1;
+    text-align: center;
+}
+
+#mainmenu {
+    flex-grow: 3;
+    text-align: center;
+}
+
+#button_login {
+    flex-grow: 1;
+    text-align: center;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+}
