@@ -20,6 +20,17 @@ header {
 #button_login {
     flex-grow: 1;
     text-align: center;
+    padding: 10px 26px;
+    background-color: #181818;
+    border: 1px solid #FFFFFF;
+    color: #FFFFFF;
+
+    font-family: 'Graphic Regular';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: 0.2px;
 }
 
 .menu {
